@@ -8,7 +8,7 @@ git clone https://github.com/Syruppmaxr/champions-teambuilder
 ```
 Navigate into "champions-teambuilder"
 ```fish
-cd ~/champions-teambuilder
+cd ~/champions-teambuilder/champions-teambuilder
 ```
 Create a python virtual environment
 ```fish
